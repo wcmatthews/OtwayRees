@@ -1,0 +1,22 @@
+Project Overview
+
+Create a simplified DES that simulates the Otway-Rees
+protocol.
+
+Objectives:
+Java
+Create different classes representing our actors
+(Alice, Bob, Cathy) using a finite state machine
+framework.
+
+Alice:
+sendMessage()
+receiveMessage()
+
+Bob:
+sendMessage()
+receiveMessage()
+
+Cathy:
+authorizeUser()
+createSessionKey()
